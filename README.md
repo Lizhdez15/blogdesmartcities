@@ -1,4 +1,4 @@
-# blogdesmartcities con HTML y CSS
+# Blog de Smart Cities con HTML y CSS
 Este proyecto es un Blog que habla brevemente del Big Data en Smart Cities. 
 Creado puramente con HTML5 y CSS#.
 
