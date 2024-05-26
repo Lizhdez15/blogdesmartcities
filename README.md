@@ -20,6 +20,7 @@ Enfacodo a la apariencia visual de un blog de articulos cientificos, ofreciendo 
 
 
  ### Vista Previa del Proyecto
+![Demo(imagenes/)]
 
 
  ### Contacto
